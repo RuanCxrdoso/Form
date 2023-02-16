@@ -1,0 +1,6 @@
+$btn-color: #ff4043;
+$background-color: #131212f1;
+
+@mixin borderSet{
+    border: 1px solid $btn-color;
+}

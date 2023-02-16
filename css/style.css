@@ -1,0 +1,42 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  background-image: url(../../images/backgroundLp.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+  color: white;
+}
+
+.container1 {
+  background-color: rgba(19, 18, 18, 0.9450980392);
+  width: 405px;
+  height: auto;
+  font-size: 0.9rem;
+  border-radius: 8px;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.596);
+}
+
+.topLogo {
+  width: 160px;
+}
+
+.paragraph {
+  margin: 4px 0px;
+}
+
+.btnSend {
+  color: #ff4043;
+  transition: 0.5s;
+  border: 1px solid #ff4043;
+}
+
+.footer {
+  margin-top: 30px;
+  margin-bottom: -40px;
+}
+
+/*# sourceMappingURL=style.css.map */
